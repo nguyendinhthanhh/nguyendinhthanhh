@@ -9,7 +9,6 @@ I enjoy turning practical requirements into usable products, including **booking
 Beyond development, I also mentor students through **1:1 tutoring**, helping them strengthen programming fundamentals and problem-solving skills.
 
 <br>
-
 • 💼 Building Java Web and full-stack applications  
 • 🛠 Skilled in MVC, REST APIs, database design, authentication, and clean code  
 • 🧠 Strengthening my skills in Spring Boot, React, system design, and microservices  
