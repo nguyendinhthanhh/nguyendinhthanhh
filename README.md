@@ -1,5 +1,22 @@
-# 💫 About Me:
-## Hi, I’m Nguyễn Đình Thanh<br><br>I’m a Full-stack Web Developer focused on Java web development, backend systems, REST APIs, and database design.<br><br>I enjoy building practical web applications such as booking platforms, e-commerce systems, authentication features, and management systems.<br><br>I also have experience tutoring and mentoring students 1:1, helping them improve programming basics and problem-solving skills.<br><br>- 💼 Currently building Java Web and full-stack applications<br>- 🛠 Skilled in MVC, REST APIs, databases, authentication, and clean code<br>- 📚 Learning Spring Boot, React, system design, and microservices<br>- 👨‍🏫 Experienced in 1:1 tutoring and mentoring<br>- 🏆 Top 100 outstanding students at FPT University<br>- 🎯 Interested in backend development and scalable web systems<br>- ✉️ Contact: nguyendinhthanh.it@gmail.com
+# 💫 About Me
+
+## Hi, I’m Nguyễn Đình Thanh 👋
+
+I’m a **Full-stack Web Developer** focused on building reliable web applications with strong foundations in **Java backend development, REST APIs, database design, and clean architecture**.
+
+I enjoy turning practical requirements into usable products, including **booking platforms, e-commerce systems, authentication features, and management systems**.
+
+Beyond development, I also mentor students through **1:1 tutoring**, helping them strengthen programming fundamentals and problem-solving skills.
+
+<br>
+
+• 💼 Building Java Web and full-stack applications  
+• 🛠 Skilled in MVC, REST APIs, database design, authentication, and clean code  
+• 🧠 Strengthening my skills in Spring Boot, React, system design, and microservices  
+• 👨‍🏫 Mentoring students through 1:1 programming support  
+• 🏆 Top 100 Outstanding Student at FPT University  
+• 🎯 Interested in backend engineering and scalable web systems  
+• ✉️ Contact: nguyendinhthanh.it@gmail.com
 
 
 # 💻 Tech Stack:
